@@ -7,10 +7,26 @@ edition = "2021"
 
 [[bin]]
 name = "sub_arr"
-path = "src/sub_arr.rs"
+path = "src/lession1/sub_arr.rs"
 
 [[bin]]
 name = "check_char"
-path = "src/check_char.rs"
+path = "src/lession1/check_char.rs"
+
+[[bin]]
+name = "lession2_ex1"
+path = "src/lession2/ex1.rs"
+
+[[bin]]
+name = "lession2_ex2"
+path = "src/lession2/ex2.rs"
+
+[[bin]]
+name = "lession2_ex3"
+path = "src/lession2/ex3.rs"
+
+[[bin]]
+name = "lession2_ex4"
+path = "src/lession2/ex4.rs"
 
 [dependencies]

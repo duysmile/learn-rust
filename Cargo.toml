@@ -6,6 +6,10 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [[bin]]
+name = "learn"
+path = "src/learn/main.rs"
+
+[[bin]]
 name = "sub_arr"
 path = "src/lession1/sub_arr.rs"
 
@@ -28,5 +32,21 @@ path = "src/lession2/ex3.rs"
 [[bin]]
 name = "lession2_ex4"
 path = "src/lession2/ex4.rs"
+
+[[bin]]
+name = "lession3_ex1"
+path = "src/lession3/ex1.rs"
+
+[[bin]]
+name = "lession3_ex2"
+path = "src/lession3/ex2.rs"
+
+[[bin]]
+name = "lession3_ex3"
+path = "src/lession3/ex3.rs"
+
+[[bin]]
+name = "lession3_ex4"
+path = "src/lession3/ex4.rs"
 
 [dependencies]

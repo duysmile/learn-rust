@@ -49,4 +49,20 @@ path = "src/lession3/ex3.rs"
 name = "lession3_ex4"
 path = "src/lession3/ex4.rs"
 
+[[bin]]
+name = "lession4_ex1"
+path = "src/lession4/ex1.rs"
+
+[[bin]]
+name = "lession4_ex2"
+path = "src/lession4/ex2.rs"
+
+[[bin]]
+name = "lession4_ex3"
+path = "src/lession4/ex3.rs"
+
+[[bin]]
+name = "lession4_ex4"
+path = "src/lession4/ex4.rs"
+
 [dependencies]
